@@ -2,7 +2,7 @@
 
 .
 
-<a href="https://github.com/Hazal-Y/Customer-Sales-Analysis-Tableau/blob/main/P-1.png"><img align="left" width="auto" height="auto" src="https://github.com/Hazal-Y/Customer-Sales-Analysis-Tableau/blob/main/P-1.png"></a>
+<a href="https://github.com/HeviBaran/JOB-SATISFACTION-ANALYSIS-TABLEAU/blob/main/P-1.png"><img align="left" width="auto" height="auto" src="https://github.com/HeviBaran/JOB-SATISFACTION-ANALYSIS-TABLEAU/blob/main/P-1.png"></a>
 
 .
 
