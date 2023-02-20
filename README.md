@@ -1,4 +1,4 @@
-# Customer Sales Analysis - Tableau Project
+# Job Satisfaction Analysis - Tableau Project
 
 .
 
