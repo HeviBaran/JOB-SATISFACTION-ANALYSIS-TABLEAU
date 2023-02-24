@@ -1,7 +1,7 @@
 # Job Satisfaction Analysis - Tableau Project
 
 
-# This analysis has been done for indicating the effects of job satisfaction of employees on the sales of the  company
+ This analysis has been done for indicating the effects of job satisfaction of employees on the sales of the  company
 
 ### Objectives
 
